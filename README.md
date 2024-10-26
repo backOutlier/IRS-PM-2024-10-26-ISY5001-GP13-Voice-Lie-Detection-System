@@ -6,7 +6,7 @@
 
 
 
-[![img](https://github.com/backOutlier/IRS-PM-2024-10-26-ISY5001-GP13-Voice-Lie-Detection-System/raw/main/SystemCode/clips/static/hdb-bto.png)](https://github.com/backOutlier/IRS-PM-2024-10-26-ISY5001-GP13-Voice-Lie-Detection-System/blob/main/SystemCode/clips/static/hdb-bto.png)
+[![img]([https://github.com/backOutlier/IRS-PM-2024-10-26-ISY5001-GP13-Voice-Lie-Detection-System/raw/main/SystemCode/clips/static/hdb-bto.png)](https://github.com/backOutlier/IRS-PM-2024-10-26-ISY5001-GP13-Voice-Lie-Detection-System/blob/main/SystemCode/clips/static/hdb-bto.png](https://github.com/backOutlier/IRS-PM-2024-10-26-ISY5001-GP13-Voice-Lie-Detection-System/blob/main/Miscellaneous/cover.jpg))
 
 ------
 
