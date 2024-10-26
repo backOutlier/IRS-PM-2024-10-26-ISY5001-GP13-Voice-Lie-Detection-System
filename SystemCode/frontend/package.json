@@ -1,0 +1,26 @@
+{
+  "name": "iss-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@primevue/themes": "^4.1.0",
+    "audiobuffer-to-wav": "^1.0.0",
+    "axios": "^1.7.7",
+    "primeflex": "^3.3.1",
+    "primeicons": "^7.0.0",
+    "primevue": "^4.1.0",
+    "vue": "^3.5.10",
+    "vue-audio-recorder": "^3.0.1",
+    "vue-audio-tapir": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "vite": "^5.4.8"
+  }
+}
