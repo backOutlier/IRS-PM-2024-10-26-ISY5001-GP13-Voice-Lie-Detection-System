@@ -37,7 +37,15 @@ Our team had an amazing time working on this project, and hope to share our insi
 
 [![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
 
-Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
-More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
 
 ---
+
+## SECTION 5 : USER GUIDE
+
+
+---
+
+
+## SECTION 6 : PROJECT REPORT / PAPER
+
+
