@@ -1,8 +1,8 @@
-## SECTION 1 : PROJECT TITLE
+## SECTION 1 : Voice Lie Detection System
 
 
 
-## Singapore Housing & Deveoplment Board - BTO Recommender System
+
 
 
 
@@ -12,12 +12,12 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
-
-This project develops an advanced speech recognition-based polygraph system with the objective of providing an innovative alternative to the traditional polygraph for criminal investigations. The traditional methods, for example the polygraph, have been the subject of criticism on ethical grounds and with regard to their reliability. In view of this, we propose a voice-based polygraph model that uses machine learning to enhance detection accuracy. This provides a more transparent, non-intrusive and adaptable solution for detection.<rb>
-The project addresses the shortcomings of existing polygraph techniques, particularly in regard to data transparency, model interpretability and cross-domain applicability. This is achieved by integrating a range of machine learning models (including Random Forests, Support Vector Machines, KNN and others) and utilising a soft-voting integration system to enhance the reliability and accuracy of the predictions. 
-From a commercial perspective, the project's voice lie detector system has the potential for a wide range of applications in multiple fields, including criminal justice, corporate censorship and insurance claims. The system can be offered on a per-use or subscription basis through a software-as-a-service (SaaS) cloud platform model, making it suitable for a variety of users, including law enforcement agencies, healthcare organisations, insurance companies, and corporate users. Furthermore, the system can be customised to meet the specific needs of individual enterprises, providing customers with proprietary models and tools to facilitate efficient truthfulness judgments in scenarios such as employee selection, internal vetting, and fraud detection.
-The system offers substantial enhancements in both accuracy and user experience when compared to traditional lie detection methods, achieving 95% accuracy on specific data sets. The system's non-intrusive, highly interpretable and well-designed user interfaces enable it to stand out in a wide range of markets, with particular leadership in areas such as justice, healthcare and corporate security, where demand is growing.
 ------
+`    `This project develops an advanced speech recognition-based polygraph system with the objective of providing an innovative alternative to the traditional polygraph for criminal investigations. The traditional methods, for example the polygraph, have been the subject of criticism on ethical grounds and with regard to their reliability. In view of this, we propose a voice-based polygraph model that uses machine learning to enhance detection accuracy. This provides a more transparent, non-intrusive and adaptable solution for detection.
+`    `The project addresses the shortcomings of existing polygraph techniques, particularly in regard to data transparency, model interpretability and cross-domain applicability. This is achieved by integrating a range of machine learning models (including Random Forests, Support Vector Machines, KNN and others) and utilising a soft-voting integration system to enhance the reliability and accuracy of the predictions.  
+`    `From a commercial perspective, the project's voice lie detector system has the potential for a wide range of applications in multiple fields, including criminal justice, corporate censorship and insurance claims. The system can be offered on a per-use or subscription basis through a software-as-a-service (SaaS) cloud platform model, making it suitable for a variety of users, including law enforcement agencies, healthcare organisations, insurance companies, and corporate users. Furthermore, the system can be customised to meet the specific needs of individual enterprises, providing customers with proprietary models and tools to facilitate efficient truthfulness judgments in scenarios such as employee selection, internal vetting, and fraud detection.  
+`    `The system offers substantial enhancements in both accuracy and user experience when compared to traditional lie detection methods, achieving 95% accuracy on specific data sets. The system's non-intrusive, highly interpretable and well-designed user interfaces enable it to stand out in a wide range of markets, with particular leadership in areas such as justice, healthcare and corporate security, where demand is growing.
+
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
 
