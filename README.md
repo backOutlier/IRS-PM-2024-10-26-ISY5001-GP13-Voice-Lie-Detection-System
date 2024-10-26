@@ -25,13 +25,19 @@ Our team had an amazing time working on this project, and hope to share our insi
 | Official Full Name  | Student ID (MTech Applicable)  | Work Items (Who Did What) | Email (Optional) |
 | :------------ |:---------------:| :-----| :-----|
 | Mohan Liu | A0297443U | 1. The process of cleaning data, extracting features, training models (such as KNN and SVM), and evaluating models.<br>2. Develop integrated models and produce soft voting algorithms to integrate the most accurate algorithms, as well as prepare implementation documents.<br>3. Contribute to the preparation of reports and the design of their layout.<br>4. Delegate tasks and monitor progress.| e1351581@u.nus.edu |
-| Yuhao Zhou | A1234567B | 1. Literature review- Web application front-end development<br>2. Part of web app back-end development <br>3. Server transmission testing<br>4. Part of report writing- Demo recording｜zhouyuhao24@u.nus.edu|
-| LiXin Zhang | A0279544N | 1. Participate in system design discussions and draw system architecture diagrams<br>
-2. Participate in model design and write reports on model training part<br>
-3. Participate in report integration<br>
-4. Produce PowerPoint and video for system design section| A1234567C@outlook.com |
+| Yuhao Zhou | A1234567B | 1. Literature review- Web application front-end development<br>2. Part of web app back-end development <br>3. Server transmission testing<br>4. Part of report writing 5.Demo recording|zhouyuhao24@u.nus.edu|
+| LiXin Zhang | A0279544N | 1. Participate in system design discussions and draw system architecture diagrams<br>2. Participate in model design and write reports on model training part<br>3. Participate in report integration<br>4. Produce PowerPoint and video for system design section| E1351682@u.nus.edu |
 | Zhiyuan Zhang | A0297736J | 1. project reproduction, project Intro, data collection<br> 2. model training<br> 3.related report writing| e1351874@u.nus.edu |
-| Wenyu Zhou | A0294636R  | 1.web application backend development<br> 2. Writing Report <br>3.PPT creation
-Email:e1348774@u.nus.edu| |
+| Wenyu Zhou | A0294636R  | 1.web application backend development<br> 2. Writing Report <br>3.PPT creation|e1348774@u.nus.edu |
+
+---
+
+
+## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+
+[![Sudoku AI Solver](http://img.youtube.com/vi/-AiYLUjP6o8/0.jpg)](https://youtu.be/-AiYLUjP6o8 "Sudoku AI Solver")
+
+Note: It is not mandatory for every project member to appear in video presentation; Presentation by one project member is acceptable. 
+More reference video presentations [here](https://telescopeuser.wordpress.com/2018/03/31/master-of-technology-solution-know-how-video-index-2/ "video presentations")
 
 ---
