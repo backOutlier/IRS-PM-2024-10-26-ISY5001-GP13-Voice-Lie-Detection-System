@@ -1,4 +1,4 @@
-## SECTION 1 : Voice Lie Detection System
+## Project Name : Voice Lie Detection System
 
 
 
@@ -10,7 +10,7 @@
 
 ------
 
-## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
+## SECTION 1 : EXECUTIVE SUMMARY / PAPER ABSTRACT
 
 ------
 `    `This project develops an advanced speech recognition-based polygraph system with the objective of providing an innovative alternative to the traditional polygraph for criminal investigations. The traditional methods, for example the polygraph, have been the subject of criticism on ethical grounds and with regard to their reliability. In view of this, we propose a voice-based polygraph model that uses machine learning to enhance detection accuracy. This provides a more transparent, non-intrusive and adaptable solution for detection.
@@ -19,7 +19,7 @@
 `    `The system offers substantial enhancements in both accuracy and user experience when compared to traditional lie detection methods, achieving 95% accuracy on specific data sets. The system's non-intrusive, highly interpretable and well-designed user interfaces enable it to stand out in a wide range of markets, with particular leadership in areas such as justice, healthcare and corporate security, where demand is growing.
 
 
-## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
+## SECTION 2 : CREDITS / PROJECT CONTRIBUTION
 
 
 
@@ -33,7 +33,7 @@
 
 ------
 
-## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
+## SECTION 3 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
 
 
@@ -41,7 +41,7 @@
 
 ------
 
-## SECTION 5 : USER GUIDE
+## SECTION 4 : USER GUIDE
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
@@ -75,4 +75,4 @@ $ npm run dev
 
 
 
-## SECTION 6 : PROJECT REPORT / PAPER
+## SECTION 5 : PROJECT REPORT / PAPER
