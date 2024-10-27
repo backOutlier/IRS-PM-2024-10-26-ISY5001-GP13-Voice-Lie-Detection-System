@@ -85,20 +85,20 @@ PROJECT REPORT	1<br>
 2. Introduction	4<br>
   2.1 Project Background	4<br>
   2.2 Project Significance	5<br>
-    2.2.1 Current limitations	5<br>
-    2.2.2 Proposed Solution and Innovations	6<br>
+    ` `2.2.1 Current limitations	5<br>
+    ` `2.2.2 Proposed Solution and Innovations	6<br>
   2.3 Project Content	8<br>
-    2.3.1 Project Scope	8<br>
-    2.3.1 Project Challenges	9<br>
+    ` `2.3.1 Project Scope	8<br>
+    ` `2.3.1 Project Challenges	9<br>
   2.4 Business Plan	10<br>
-    2.4.1 Business Value	10<br>
-    2.4.2 Company Vision and Mission	10<br>
-    2.4.3 Products and Services	11<br>
-    2.4.4 Market Analysis	11<br>
-    2.4.5 Business Model	12<br>
+    ` `2.4.1 Business Value	10<br>
+    ` `2.4.2 Company Vision and Mission	10<br>
+    ` `2.4.3 Products and Services	11<br>
+    ` `2.4.4 Market Analysis	11<br>
+    ` `2.4.5 Business Model	12<br>
   2.5 Project Objective	12<br>
-    2.5.1 Base Line Setting	12<br>
-    2.5.1 Web Application Setting	13<br>
+    ` `2.5.1 Base Line Setting	12<br>
+    ` `2.5.1 Web Application Setting	13<br>
 3. Literature Review	14<br>
   3.1 Relevant Research	14<br>
   3.2 Key Findings	16<br>
@@ -106,48 +106,48 @@ PROJECT REPORT	1<br>
 4. System Design	17<br>
   4.1 Architecture Overview	17<br>
   4.2 System Components	18<br>
-    4.2.1 User Interface Module	19<br>
-    4.2.2 Data Processing Module	19<br>
-    4.2.3 Knowledge base Module	20<br>
-    4.2.4 Reasoning engine Module	21<br>
-    4.2.5 Explainability Module	22<br>
-    4.2.6 External interface Module	23<br>
+    ` `4.2.1 User Interface Module	19<br>
+    ` `4.2.2 Data Processing Module	19<br>
+    ` `4.2.3 Knowledge base Module	20<br>
+    ` `4.2.4 Reasoning engine Module	21<br>
+    ` `4.2.5 Explainability Module	22<br>
+    ` `4.2.6 External interface Module	23<br>
   4.3 Reasoning Techniques and Algorithms	23<br>
 5. Data Collection and Preparation	25<br>
   5.1 Data Sources	25<br>
   5.2 Challenges in Data Collection	26<br>
   5.3 Preprocessing Techniques	27<br>
-    5.3.1 Video Data Retrieval Process	27<br>
-    5.3.2 Video Data Convert Process	28<br>
-    5.3.3 Feature Extracted	29<br>
+    ` `5.3.1 Video Data Retrieval Process	27<br>
+    ` `5.3.2 Video Data Convert Process	28<br>
+    ` `5.3.3 Feature Extracted	29<br>
 6. Implementation	31<br>
   6.1 Platform and Tools	31<br>
   6.2 Methods and Technologies	32<br>
-    6.2.1 Random Forest	32<br>
-    6.2.2 Support Vector Machine	34<br>
-    6.2.3 K-Nearest Neighbors	35<br>
-    6.2.4 Deep Neural Networks	37<br>
+    ` `6.2.1 Random Forest	32<br>
+    ` `6.2.2 Support Vector Machine	34<br>
+    ` `6.2.3 K-Nearest Neighbors	35<br>
+    ` `6.2.4 Deep Neural Networks	37<br>
 7. Results and Progress	38<br>
   7.1Preliminary Results from Reasoning Engine	38<br>
   7.2 Performance Metrics Visualizations	38<br>
-    7.2.1 Soft Voting Integration Model_A	38<br>
-    7.2.2 Soft Voting Integration Model_B	40
+    ` `7.2.1 Soft Voting Integration Model_A	38<br>
+    ` `7.2.2 Soft Voting Integration Model_B	40
   7.3 Comparison with Existing Lie Detection Techniques	41<br>
 8 Web Application Development	43<br>
   8.1 Initiation	43<br>
   8.2 Front-End Development	43<br>
-    8.2.1 Tools	43<br>
-    8.2.2Application Design	44<br>
+    ` `8.2.1 Tools	43<br>
+    ` `8.2.2Application Design	44<br>
   8.3 Back-End Development	44<br>
-    8.3.1 System Architecture	44<br>
-    8.3.2 Database Design	45<br>
-    8.3.3 Api Design	45<br>
+    ` `8.3.1 System Architecture	44<br>
+    ` `8.3.2 Database Design	45<br>
+    ` `8.3.3 Api Design	45<br>
 9. Challenges and Future Work	48<br>
   9.1 Obstacles in System Development	48<br>
-    9.1.1 Limitation of Data and Features	48<br>
-    9.1.2 Problem for the accuracy and generation of reasoning engine	48<br>
+    ` `9.1.1 Limitation of Data and Features	48<br>
+    ` `9.1.2 Problem for the accuracy and generation of reasoning engine	48<br>
   9.2 Strategies to Overcome Identified Challenges	49<br>
-    9.2.1 Methods to solve limitation of Data and Features	49<br>
-    9.2.2 Methods to solve problem for the accuracy and generation	49<br>
+    ` `9.2.1 Methods to solve limitation of Data and Features	49<br>
+    ` `9.2.2 Methods to solve problem for the accuracy and generation	49<br>
   9.3 Additional Features to be Implemented 	49<br>
 References	51
