@@ -39,8 +39,9 @@
 
 
 
-[![BUSINESS and DEMO](Video/ISY500PRE（business and demo).mp4)]
-[![System and Tech](Video/ISY5001-Project-Pre(tech and system).mp4)]
+[![BUSINESS and DEMO](Video/ISY500PRE（business and demo).mp4)](https://youtu.be/vqprQnLd8X0)]  
+<rb>
+[![System and Tech]([Video/ISY5001-Project-Pre(tech and system).mp4)](https://youtu.be/WfFMWGkmkG8)]
 
 ------
 
@@ -79,3 +80,74 @@ $ npm run dev
 
 
 ## SECTION 5 : PROJECT REPORT / PAPER
+PROJECT REPORT	1
+1. Executive Summary	3
+2. Introduction	4
+  2.1 Project Background	4
+  2.2 Project Significance	5
+    2.2.1 Current limitations	5
+    2.2.2 Proposed Solution and Innovations	6
+  2.3 Project Content	8
+    2.3.1 Project Scope	8
+    2.3.1 Project Challenges	9
+  2.4 Business Plan	10
+    2.4.1 Business Value	10
+    2.4.2 Company Vision and Mission	10
+    2.4.3 Products and Services	11
+    2.4.4 Market Analysis	11
+    2.4.5 Business Model	12
+  2.5 Project Objective	12
+    2.5.1 Base Line Setting	12
+    2.5.1 Web Application Setting	13
+3. Literature Review	14
+  3.1 Relevant Research	14
+  3.2 Key Findings	16
+  3.3 Methodologies	16
+4. System Design	17
+  4.1 Architecture Overview	17
+  4.2 System Components	18
+    4.2.1 User Interface Module	19
+    4.2.2 Data Processing Module	19
+    4.2.3 Knowledge base Module	20
+    4.2.4 Reasoning engine Module	21
+    4.2.5 Explainability Module	22
+    4.2.6 External interface Module	23
+  4.3 Reasoning Techniques and Algorithms	23
+5. Data Collection and Preparation	25
+  5.1 Data Sources	25
+  5.2 Challenges in Data Collection	26
+  5.3 Preprocessing Techniques	27
+    5.3.1 Video Data Retrieval Process	27
+    5.3.2 Video Data Convert Process	28
+    5.3.3 Feature Extracted	29
+6. Implementation	31
+  6.1 Platform and Tools	31
+  6.2 Methods and Technologies	32
+    6.2.1 Random Forest	32
+    6.2.2 Support Vector Machine	34
+    6.2.3 K-Nearest Neighbors	35
+    6.2.4 Deep Neural Networks	37
+7. Results and Progress	38
+  7.1Preliminary Results from Reasoning Engine	38
+  7.2 Performance Metrics Visualizations	38
+    7.2.1 Soft Voting Integration Model_A	38
+    7.2.2 Soft Voting Integration Model_B	40
+  7.3 Comparison with Existing Lie Detection Techniques	41
+8 Web Application Development	43
+  8.1 Initiation	43
+  8.2 Front-End Development	43
+    8.2.1 Tools	43
+    8.2.2Application Design	44
+  8.3 Back-End Development	44
+    8.3.1 System Architecture	44
+    8.3.2 Database Design	45
+    8.3.3 Api Design	45
+9. Challenges and Future Work	48
+  9.1 Obstacles in System Development	48
+    9.1.1 Limitation of Data and Features	48
+    9.1.2 Problem for the accuracy and generation of reasoning engine	48
+  9.2 Strategies to Overcome Identified Challenges	49
+    9.2.1 Methods to solve limitation of Data and Features	49
+    9.2.2 Methods to solve problem for the accuracy and generation	49
+  9.3 Additional Features to be Implemented 	49
+References	51
