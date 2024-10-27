@@ -39,7 +39,8 @@
 
 
 
-[![BUSINESS and DEMO](Video/ISY500PRE（business and demo).mp4)
+[![BUSINESS and DEMO](Video/ISY500PRE（business and demo).mp4)]
+[![System and Tech](Video/ISY5001-Project-Pre(tech and system).mp4)]
 
 ------
 
