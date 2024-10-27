@@ -80,7 +80,6 @@ $ npm run dev
 
 
 ## SECTION 5 : PROJECT REPORT / PAPER
-[!(GP13-LIUMOHAN-ProjectReport.pdf)]<br>
 PROJECT REPORT	1<br>
 1. Executive Summary	3<br>
 2. Introduction	4<br>
