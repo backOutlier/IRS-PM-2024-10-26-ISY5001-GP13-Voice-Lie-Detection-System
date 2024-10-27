@@ -31,7 +31,7 @@
 | Yuhao Zhou         | A1234567B                     | 1. Literature review- Web application front-end development <br>2. Part of web app back-end development <br>3. Server transmission testing<br> 4. Part of report writing <br>5.Demo recording | [zhouyuhao24@u.nus.edu](mailto:zhouyuhao24@u.nus.edu) |
 | LiXin Zhang        | A0279544N                     | 1. Participate in system design discussions and draw system architecture diagrams <br>2. Participate in model design and write reports on model training part <br>3. Participate in report integration <br>4. Produce PowerPoint and video for system design section | [E1351682@u.nus.edu](mailto:E1351682@u.nus.edu)       |
 | Zhiyuan Zhang      | A0297736J                     | 1. project reproduction, project Intro, data collection <br>2. model training <br>3.related report writing | [e1351874@u.nus.edu](mailto:e1351874@u.nus.edu)       |
-| Wenyu Zhou         | A0294636R                     | 1.web application backend development <br>2. Writing Report <br>3.PPT creation | [e1348774@u.nus.edu](mailto:e1348774@u.nus.edu)       |
+| Wenyu Zhong         | A0294636R                     | 1.web application backend development <br>2. Writing Report <br>3.PPT creation | [e1348774@u.nus.edu](mailto:e1348774@u.nus.edu)       |
 
 ------
 
@@ -80,6 +80,7 @@ $ npm run dev
 
 
 ## SECTION 5 : PROJECT REPORT / PAPER
+[!(GP13-LIUMOHAN-ProjectReport.pdf)]<br>
 PROJECT REPORT	1<br>
 1. Executive Summary	3<br>
 2. Introduction	4<br>
